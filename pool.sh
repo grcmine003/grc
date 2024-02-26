@@ -43,125 +43,125 @@ sleep 10
 sleep 10
 ./boinccmd --acct_mgr sync
 sleep 10
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
-./boinccmd --get_state | grep "current CPU time"
+./boinccmd --get_state | grep "CPU time"
 sleep 10m
